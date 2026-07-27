@@ -8,4 +8,13 @@ rag本身的流程搭建是可以模仿的，但是我更关注一些工程化�
 
 第三是必须落实到用户买不买账，有没有达到业务预期，这才是最终目的
 
+---
+
+https://notes.kamacoder.com/interview/llm/rag_hardest_parts_interview.html
+
+这篇文章质量不错 很多细节是之前文章没提到的
+
+
+---
+
 
