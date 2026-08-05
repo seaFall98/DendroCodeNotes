@@ -9,20 +9,7 @@ description: "别卷八股文了，来给面试加点硬菜吧！"
 tags:
   - "clippings"
 ---
-小傅哥 *2022年2月15日 07:55*
 
-### 持续坚持原创输出，点击蓝字关注我吧
-
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_jpg/zTfAIs5rNXggEGmZWKOxkhbQgPZjGUh9SUT9j99a5RcBtHrpXPwef72vNBiaQRAUcYLLK7lAELL0YQJLU5sLIfg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=0)
-
-作者：小傅哥  
-博客：https://bugstack.cn
-
-> ❝
-> 
-> 沉淀、分享、成长，让自己和他人都能有所收获！😜
-> 
-> ❞
 
 ## 目录
 
